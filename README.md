@@ -44,7 +44,7 @@ The implementation in `Assignment2.ipynb` follows these key steps:
 ## 📈 Results Summary
 The analysis successfully identified distinct clusters within the diabetes patient data. 
 * **Key Finding:** The "Elbow Point" was typically found at $K=3$ or $K=4$, suggesting specific physiological groupings within the dataset.
-* **Visualization:** (See screenshots within the [Report](./Report_for_clustering_A2.pdf) for detailed cluster maps and centroid locations).
+* **Visualization:** (See screenshots within the [Report](./Report_for_clustering_A2_git.pdf) for detailed cluster maps and centroid locations).
 
 ---
 
