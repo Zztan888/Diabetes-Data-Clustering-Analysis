@@ -12,7 +12,7 @@ This repository contains an implementation of a Clustering algorithm to analyze 
 ---
 
 ## 📂 Quick Links to Files
-* 📄 **Full Report:** [Report_for_clustering_A2.pdf](./Report_for_clustering_A2.pdf)
+* 📄 **Full Report:** [Report_for_clustering_A2.pdf](./Report_for_clustering_A2_git.pdf)
 * 📓 **Source Code:** [Assignment2.ipynb](./Assignment2.ipynb)
 * 📊 **Dataset:** [diabetes.csv](./diabetes.csv)
 
